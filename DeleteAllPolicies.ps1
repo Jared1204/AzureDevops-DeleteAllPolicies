@@ -2,7 +2,7 @@
 $Organization = "{Azure Devops Organization}"
 $Project = "{Azure Devops Project}"
 
-$user = "{Service Account Email"
+$user = "{Service Account Email}"
 $token = "{Service Account Token (Requires Scope: Code(Read & Write))}"
 
 # Get all policies in the project
